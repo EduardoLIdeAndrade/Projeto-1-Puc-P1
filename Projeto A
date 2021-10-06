@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <Title>Ceguimos</Title>
+</head>
+<body>
+    <div id="cabecalho">
+        <p>Já pensou em ir vendado</p>
+        <ul>
+            <li>Home</li> 
+            <li>Doação</li> 
+            <li>Braile</li> 
+            <li>Pesquisa</li> 
+            <li>Contato</li>
+        </ul>
+        </div>
+    <div id="conteudo">
+
+        <p>Podcast</p>
+
+        <iframe width="560" height="315" 
+        src="https://www.youtube.com/embed/aFJgHKG1NdM" 
+        title="YouTube video player" 
+        frameborder="0" 
+        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+        allowfullscreen>
+    </iframe>
+</div>
+
+<header>Locais</header>
+<nav></nav>
+<section>Local</section>
+
+<article>Descrição</article>
+<Aside>Fotos</Aside>
+<footer>Contato</footer>
+</div>
+<div id="rodape">
+    <p>Copyright 2021 Ceguimos</p>
+</div>
+</body>
+</html>
